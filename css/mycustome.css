@@ -1,0 +1,30 @@
+.myactive
+{
+	color: #ffb400 !important;
+}
+
+.top-header-custom ul {
+	margin: 0;
+	padding: 0;
+}
+
+.top-header-custom ul li {
+	padding: 0 5px;
+	height: 40px;
+	display: inline-block;
+	text-align: center;
+	line-height: 40px;
+	color: #aaa;
+}
+
+.top-header-custom ul li a {
+	text-decoration: none;
+	color: #aaa;
+}
+
+
+.dropdown-menu-custome li a
+{
+	background: none !important;
+	padding: 10px !important;
+}
